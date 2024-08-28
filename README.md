@@ -1,2 +1,2 @@
 # UY1
-this repertoire contains projects carried out during my first three years at the university of yaoundé 1.
+pour chacun des programmes de se repertoir vous devrais suivre le readme qui va avec
